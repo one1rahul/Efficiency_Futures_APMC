@@ -16,7 +16,4 @@ VECM implementation on Wheat prices in India
 </div>
 <div style="font-size:11px;"><span id="citescorePerVal">49th percentile</span></div>
 </div>
-<div style="font-size:12px;text-align:right;">Powered by &nbsp;<span><img alt="Scopus" style="width:50px;height:15px;" src="https://www.scopus.com/static/images/scopusLogoOrange.svg"></span></div>
-</div>
-</div>
 </a>
