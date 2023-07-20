@@ -35,10 +35,11 @@ Make sure to review and adhere to the license terms when using the materials.
 If you need to reach out to the author of the journal article, you can do so using the following contact information:
 
 Author Name: Rahul Kumar Singh
-Email: one1rahul@gmail.com
-[Linkedin](https://www.linkedin.com/in/one1rahul/)
-[Research Gate](https://www.researchgate.net/profile/Rahul-Singh-330)
-[twitter](https://twitter.com/rahulrux)
+- Email: one1rahul@gmail.com
+- [Linkedin](https://www.linkedin.com/in/one1rahul/)
+- [Research Gate](https://www.researchgate.net/profile/Rahul-Singh-330)
+- [twitter](https://twitter.com/rahulrux)
+- [homepage](https://www.iitg.ac.in/hss/st_full_details.php?mail=cjR3WDVZbGJpQzJBYjRiRlJoSk9oQT09)
 
 ### Acknowledgments
 The study was carried out when the author was a PhD student at IIT Guwahati in the department of Humanities and Social Sciences.
