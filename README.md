@@ -40,6 +40,7 @@ Author Name: Rahul Kumar Singh
 - [Research Gate](https://www.researchgate.net/profile/Rahul-Singh-330)
 - [twitter](https://twitter.com/rahulrux)
 - [homepage](https://www.iitg.ac.in/hss/st_full_details.php?mail=cjR3WDVZbGJpQzJBYjRiRlJoSk9oQT09)
+- [Google Scholar](https://scholar.google.co.in/citations?user=viWBzO0AAAAJ&hl=en)
 
 ### Acknowledgments
 The study was carried out when the author was a PhD student at IIT Guwahati in the department of Humanities and Social Sciences.
