@@ -1,6 +1,8 @@
 # list of packages to be loaded
 x <- c("tsDyn", "urca", "vars", "FinTS", "rugarch", "rmgarch", "writexl", "fBasics")
 
+install.packages(x)
+
 # loading packages
 lapply(x, require, character.only = TRUE)
 
