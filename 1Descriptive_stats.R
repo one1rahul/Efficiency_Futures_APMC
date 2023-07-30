@@ -1,6 +1,8 @@
 # A character vector of package names
 x <- c("tsDyn", "urca", "vars", "FinTS", "rugarch", "rmgarch", "writexl", "fBasics")
 
+install.packages(x)
+
 # Load packages using `lapply` function
 lapply(x, require, character.only = TRUE)
 
