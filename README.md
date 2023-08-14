@@ -11,14 +11,15 @@ You are free to use any of the material in this repository for your research or 
 
 ### Contents of the Repository
 The repository is organized as follows:
-- 1Descriptive_stats.R : This file contains the code for obtaining results of Table 1 in the paper.
-- 2Unit_root_test.R : for Table 2.
-- 3Cointegration_Test.R : for Table 3.
-- 4VECM.R : for Table 4.
-- 5Infromation_share.R : for Table 5.
+- 1Descriptive_stats.R : This file contains the code for obtaining results of Table 1 and Table 2 in the paper.
+- 2Unit_root_test.R : for Table 3.
+- 3Cointegration_Test.R : for Table 4.
+- 4VECM.R : for Table 5.
+- 5Infromation_share.R : for Table 6.
 - LICENSE.txt : This file contains license. It is not necessary for replication. It is included here because it is a good practice for a github repository to have it.
 - README.md: This file, provides an overview of the repository and instructions for replication.
-- Spot_Future.xlsx : This file contains the dataset used in the study. It is not public yet but will be uploaded soon.
+- Spot_Future.xlsx : This file will contain the dataset used in the study. It is not public yet but will be uploaded soon.
+- dummy_data.xlsx : This is a dummy dataset. It is drawn from normal distribution with mean and standard deviation as mentioned in Table 2 of the paper. This dataset will not reproduce the results of the paper. It has exactly the same dimensions as the orginal dataset. If you are going to use this dataset, please replace the name of the dataset in all Rscript files from "Spot_Future" to "dummy_data".
 
 ## Replicating the Study
 Note that the codes were written on R version 4.1 . To replicate the study's findings, follow the steps below:
